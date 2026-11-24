@@ -26,6 +26,10 @@ Os projetos são desenvolvidos com foco em aplicações práticas e integração
 
 **Descrição:** Agente de IA desenvolvido para automatizar o atendimento ao cliente e consultar informações de pedidos.
 
+## Visualização do Workflow
+
+![Workflow n8n](workflow.jpg)
+
 **Funcionalidades:**
 - Atendimento automatizado por chat.
 - Identificação de clientes por e-mail e número do pedido.

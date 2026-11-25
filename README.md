@@ -32,6 +32,7 @@ Agente inteligente desenvolvido com n8n para automatizar consultas de pedidos e 
 
 <img width="1313" height="541" alt="workflow" src="https://github.com/user-attachments/assets/1ff0058d-8c35-4c6d-b643-63dd29fab1f7" />
 
+
 **Principais funcionalidades:**
 - Atendimento automatizado por chat.
 - Consulta de pedidos por e-mail e identificador.

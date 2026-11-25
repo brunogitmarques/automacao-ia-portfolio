@@ -42,10 +42,9 @@ O projeto foi testado por meio de uma interface de chat externa, permitindo simu
 
 As capturas abaixo demonstram a interação com o agente, incluindo a solicitação de consulta e o retorno das informações do pedido.
 
-<img width="1365" height="642" alt="Captura de tela 2026-11-25 090530" src="https://github.com/user-attachments/assets/7f595566-44a9-4148-92f8-8127037080e5" />
-<img width="1361" height="637" alt="Captura de tela 2026-11-25 090401" src="https://github.com/user-attachments/assets/3f0fd055-5597-467c-a59f-a8dff5298e40" />
-<img width="1365" height="644" alt="Captura de tela 2026-11-25 090027" src="https://github.com/user-attachments/assets/d80efec8-f92c-47d0-95d3-6c31b677864a" />
-
+<img width="1365" height="644" alt="Captura de tela 2026-11-25 090027" src="https://github.com/user-attachments/assets/1f347851-03b1-44cc-8e25-a970669e9fae" />
+<img width="1361" height="637" alt="Captura de tela 2026-11-25 090401" src="https://github.com/user-attachments/assets/b3231fdf-4756-4598-8840-ddf22ca461d9" />
+<img width="1365" height="642" alt="Captura de tela 2026-11-25 090530" src="https://github.com/user-attachments/assets/33635fa6-9132-4b65-96cf-10e3d25f6cfa" />
 
 ### Execução do workflow
 

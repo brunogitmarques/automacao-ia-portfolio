@@ -24,23 +24,24 @@ Os projetos são desenvolvidos com foco em aplicações práticas e integração
 
 ### 01. Agente Inteligente de Consulta de Pedidos
 
-**Descrição:** Agente de IA desenvolvido para automatizar o atendimento ao cliente e consultar informações de pedidos.
+**Categoria:** Automação de processos | Inteligência Artificial | Atendimento ao cliente
+
+Agente inteligente desenvolvido com n8n para automatizar consultas de pedidos e recuperar informações por meio da integração com Google Sheets.
 
 #### Visualização do Workflow
 
-![Workflow n8n](workflow.jpg)
+<img width="1313" height="541" alt="workflow" src="https://github.com/user-attachments/assets/1ff0058d-8c35-4c6d-b643-63dd29fab1f7" />
 
-**Funcionalidades:**
+**Principais funcionalidades:**
 - Atendimento automatizado por chat.
-- Identificação de clientes por e-mail e número do pedido.
-- Consulta de pedidos no Google Sheets.
-- Apresentação de produtos, valores e status de entrega.
-- Memória de conversação com Redis.
-- Respostas em linguagem natural utilizando IA.
+- Consulta de pedidos por e-mail e identificador.
+- Recuperação de produtos, valores e status de entrega.
+- Memória conversacional utilizando Redis.
+- Respostas geradas por Inteligência Artificial.
 
-**Tecnologias:** n8n, OpenRouter, Google Sheets, Redis e LLM.
+**Tecnologias:** n8n, OpenRouter, Google Sheets, Redis e Google Gemma 4 31B.
 
-**[Acessar projeto e workflow](./agentes/consulta-de-pedidos/)**
+[**Acessar documentação e workflow**](agentes/consulta-de-pedidos/)
 
 ---
 

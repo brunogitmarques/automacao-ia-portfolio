@@ -14,6 +14,14 @@ Este diretório reúne certificados de cursos, formações e capacitações rela
 - **Verificação:** [Visualizar credencial digital](https://badges.com.br/share/e727bbab702f010b0af3950289bcc2a8.php?a=7786)
 
 
+### 2. Inteligência Artificial Express
+
+- **Instituição:** Simplifica Treinamentos
+- **Carga horária:** 8 horas
+- **Certificado:** [1786459587749.pdf](https://github.com/user-attachments/files/35416785/1786459587749.pdf)
+
+
+
 ## Automação de Processos
 
 Certificados relacionados ao desenvolvimento de automações, workflows e integração de sistemas.

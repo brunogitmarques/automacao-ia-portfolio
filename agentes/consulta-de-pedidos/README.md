@@ -34,6 +34,25 @@ O workflow é estruturado a partir da integração dos seguintes componentes:
 6. **Redis:** gerencia a memória conversacional, preservando o contexto das interações, com janela configurada para 10 mensagens.
 7. **Resposta ao cliente:** apresenta as informações recuperadas de maneira organizada e contextualizada.
 
+## Demonstração prática
+
+O projeto foi testado por meio de uma interface de chat externa, permitindo simular interações reais entre clientes e o agente de Inteligência Artificial.
+
+### Interface de atendimento
+
+As capturas abaixo demonstram a interação com o agente, incluindo a solicitação de consulta e o retorno das informações do pedido.
+
+<img width="1365" height="642" alt="Captura de tela 2026-11-25 090530" src="https://github.com/user-attachments/assets/7f595566-44a9-4148-92f8-8127037080e5" />
+<img width="1361" height="637" alt="Captura de tela 2026-11-25 090401" src="https://github.com/user-attachments/assets/3f0fd055-5597-467c-a59f-a8dff5298e40" />
+<img width="1365" height="644" alt="Captura de tela 2026-11-25 090027" src="https://github.com/user-attachments/assets/d80efec8-f92c-47d0-95d3-6c31b677864a" />
+
+
+### Execução do workflow
+
+A imagem a seguir apresenta o workflow em funcionamento no n8n, evidenciando a estrutura da automação e a integração entre seus componentes.
+
+<img width="1363" height="638" alt="Captura de tela 2026-11-25 090808" src="https://github.com/user-attachments/assets/9afa6c3a-f838-4501-bad6-63b697a4fd22" />
+
 ## Tecnologias e ferramentas
 
 | Tecnologia | Aplicação |

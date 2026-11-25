@@ -3,11 +3,16 @@
 
 Este diretório reúne certificados de cursos, formações e capacitações relacionados à Inteligência Artificial, Automação de Processos, Tecnologia e Análise de Dados.
 
+
 ## Inteligência Artificial
 
-| Formação | Instituição | Carga horária |
-|---|---|---|
-| Inteligência Artificial Aplicada aos Negócios | FGV | 16 horas |
+### Inteligência Artificial Aplicada aos Negócios
+
+- **Instituição:** Fundação Getulio Vargas (FGV)
+- **Carga horária:** 16 horas
+- **Credencial:** Open Badge
+- **Verificação:** [Visualizar credencial digital](https://badges.com.br/share/e727bbab702f010b0af3950289bcc2a8.php?a=7786)
+
 
 ## Automação de Processos
 
